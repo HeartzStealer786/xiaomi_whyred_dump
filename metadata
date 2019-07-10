@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:306         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=xiaomi/whyred/whyred:9/PKQ1.180904.001/V10.3.1.0.PEIMIXM:user/release-keys
+post-build-incremental=V10.3.1.0.PEIMIXM
+post-sdk-level=28
+post-security-patch-level=2019-05-05
+post-timestamp=1558507719
+pre-device=whyred
